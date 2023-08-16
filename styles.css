@@ -1,1 +1,11 @@
 /* your code */
+ thead{
+            background-color: rgba(1, 98, 202, 0.866);
+            color: white;
+        }
+        .row{
+            background-color: rgb(186, 185, 185);
+        }
+        td{
+            width: 100px;
+        }
